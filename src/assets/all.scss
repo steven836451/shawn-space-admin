@@ -1,0 +1,5 @@
+@import "~bootstrap/scss/functions"; //必須要有這一行，才能正確啟用我們自定義的變數(第二行)
+@import "./helpers/variables";
+@import "~bootstrap/scss/bootstrap";
+
+@import "./dashboard.scss"; 
