@@ -1,5 +1,6 @@
 # shawn-space-admin
 https://steven836451.github.io/shawn-space-admin/
+![alt 文字](https://upload.cc/i1/2020/04/01/FBZfbu.png "預覽")
 
 > A Vue.js project
 
