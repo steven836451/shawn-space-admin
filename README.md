@@ -3,22 +3,19 @@ https://steven836451.github.io/shawn-space-admin/
 ![alt 文字](https://upload.cc/i1/2020/04/01/FBZfbu.png "預覽")
 
 
-> ### 技能包含
+### 技能包含
 
-1. 使用Open Data製作網頁
-2. HTML標籤/DIV使用方法
-3. CSS DIV 與 Flex關係
-4. CSS Position/Pseudo-class使用時機
-5. CSS 簡單動畫呈現(DIV/滾動至最上層)
-6. JavaScript Initial/EventListener
-7. JavaScript 以二維陣列呈現分頁
-8. JavaScript 監聽頁面高度顯現"移到最上層"符號
+1. 使用Vue Cli製作
+2. Vue Router導航守衛應用
+3. 使用Bootstrap
+4. 前後台分離式電商網站(此為後台)
+5. Axios應用
+6. Vee-Validate應用
 
 ### 未來展望
 
-1. 更加熟悉AJAX使用方式
-2. 加強自身ES6語法使用
-3. 提升自我技能以及簡化程式碼
+1. 加強自身ES6語法使用
+2. 提升自我技能以及簡化程式碼
 
 ## Build Setup
 
